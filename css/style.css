@@ -1,0 +1,22 @@
+header {
+    background-color: #ccd5ae;
+}
+
+@media screen and (max-width:1024px) {
+    header {
+    background-color: #d4a373;
+    }
+}
+
+@media screen and (max-width:768px) {
+    header {
+    background-color: #faedcd;
+    }
+}
+
+@media screen and (max-width:480px) {
+    header {
+    background-color: #e9edc9;
+    }
+}
+
