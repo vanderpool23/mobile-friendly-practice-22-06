@@ -1,5 +1,18 @@
-header {
-    background-color: #ccd5ae;
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size:16pt;
+    line-height:1.5;
+    max-width: 80ch;
+    padding:0px 50px 0px 50px;
+    color:red;
 }
 
 .mobile-view {
